@@ -2,7 +2,9 @@
 
 Functions are great for when the pattern of notes (sleeps) and the actual notes are exactly the same.
 
-Parameterised functions are great for when the pattern of notes is the same but the actual notes are different.
+Parameterized functions are great for when:
+a. the pattern of notes is the same but the actual notes are different!
+b. two chunks of code are almost identical but have a few slight differences!
 
 YOUR TASK: Use a parameterised function to optimize the code below.
 
