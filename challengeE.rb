@@ -24,40 +24,19 @@ play :g3
 sleep 2
 
 
-# PART ONE
-play :c4
-sleep 1.5
-play :g3
-sleep 1.5
-play :e3
-sleep 1.5
-play :a3
-sleep 1
-play :b3
-sleep 1
-play :bb3
-sleep 0.5
-play :a3
-sleep 1
+# CUSTOM MARIO SAMPLES HERE
+sample :ambi_choir
+sleep 2
 
-#PART TWO
-play :g3
-sleep 2/3.0 #0.666666...
-play :e4
-sleep 2/3.0 #0.666666...
-play :g4
-sleep 2/3.0 #0.666666...
-play :a4
-sleep 1
-play :f4
-sleep 0.5
-play :g4
-sleep 1
-play :e4
-sleep 1
-play :c4
-sleep 0.5
-play :d4
-sleep 0.5
-play :b3
-sleep 1
+sample :bd_808
+sleep 2
+
+sample :elec_fuzz_tom
+sleep 2
+
+sample :vinyl_rewind
+sleep 2
+
+
+# MUSHROOM SAMPLE HERE
+# https://www.youtube.com/watch?v=6G-k4zxou7Y
