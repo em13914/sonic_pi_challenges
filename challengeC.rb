@@ -83,7 +83,7 @@ with_fx :flanger do
   sleep 0.5
 end
 
-with_fx :ping_pong do
+with_fx :bitcrusher do
   play :c2
   sleep 0.5
   play :e2
